@@ -18,16 +18,6 @@ metadata of which all users have a file, basically a file-user mapping.
 
 **Platform:** Linux <br/>
 
-## Installation
-
-```
-1. cd client
-2. make
-3. cd ../tracker
-5. make
-6. cd ..
-```
-
 ## Usage
 
 ### Tracker
