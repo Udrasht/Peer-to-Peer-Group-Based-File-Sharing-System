@@ -189,3 +189,5 @@ stop_share ​<group_id> <file_name>
 2. The peer can login from different IP addresses, but the details of his downloads/uploads will not be persistent across sessions.
 3. SHA1 integrity checking doesn't work correctly for binary files, so i remove the functionality of SHA1 in github uploaded version.
 4. File paths should be absolute.
+
+#### For more details how to run this project please go to pdf [click](./AOS_Assignment3.pdf)
