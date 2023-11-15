@@ -47,7 +47,7 @@ cd tracker
 ex: ./tracker tracker.txt 
 ```
 
-`<TRACKER INFO FILE>` contains the IP, Port details of all the trackers it is .txt file.
+`<TRACKER INFO FILE>` contains the IP, Port details of all the trackers it is in .txt format.
 
 ```
 Ex:
